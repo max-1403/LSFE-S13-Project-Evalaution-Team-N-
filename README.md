@@ -21,6 +21,8 @@ The repository is organized into the following sections:
 
 ## 👥 Author
  Aarav Dagur-2620030496[CSE]
+ 
  Thanay Kumar -2620030350[CSE]
+ 
  Varshashini Sivakumar-2620040128[ECE]
 
