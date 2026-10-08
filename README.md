@@ -23,6 +23,8 @@ The repository is organized into the following sections:
  Aarav Dagur-2620030496[CSE]
  
  Thanay Kumar -2620030350[CSE]
+
+Aditya kumar -2620040025[ECE]
  
  Varshashini Sivakumar-2620040128[ECE]
 
